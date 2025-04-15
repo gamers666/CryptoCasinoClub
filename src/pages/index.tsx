@@ -47,24 +47,17 @@ export default function HomePage() {
           <div className="bg-[#15152e]/80 rounded-lg p-4 lg:col-span-2 text-center lg:text-left">
             <div className=" flex items-center justify-center md:justify-start">
               <h1 className="text-2xl md:text-4xl font-bold text-white drop-shadow-md">
-                Welcome to Gamba
+                Welcome to CryptoCasinoClub
               </h1>
               <img src="/wave.gif" className="h-14" alt="Gamba Logo" />
             </div>
             <p className="my-2 text-white drop-shadow">
-              The gambleFi protocol with end-to-end tools for on-chain
-              degeneracy on Solana.
+              The Best crypto casino on the Solana blockchain. Play games, earn rewards.
             </p>
             <p className="my-2 text-sm max-w-sm">
-              Share your link to earn a {PLATFORM_REFERRAL_FEE * 100}% fee on
-              each play when players use this platform using your code.
+              
             </p>
-            <button
-              className="bg-[#8851ff] hover:bg-[#9564ff] rounded-lg p-2 text-xs bg-"
-              onClick={handleCopyInvite}
-            >
-              Copy Link
-            </button>
+            
           </div>
           <div className="whitespace-nowrap grid grid-cols-2 grid-rows-2 gap-2 mt-5 md:flex md:flex-col md:mt-0 md:justify-start">
             <button
