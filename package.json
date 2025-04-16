@@ -33,14 +33,14 @@
     "canvas-confetti": "^1.9.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "gamba-core-v2": "0.4.0",
-    "gamba-react-ui-v2": "^0.7.0",
-    "gamba-react-v2": "^1.2.0",
+    "gamba-core-v2": "0.4.1",
+    "gamba-react-ui-v2": "^0.7.1",
+    "gamba-react-v2": "^1.2.1",
     "html2canvas": "^1.4.1",
     "js-cookie": "^3.0.5",
     "lucide-react": "^0.475.0",
     "matter-js": "^0.19.0",
-    "next": "^12.0.0",
+    "next": "^12.3.4",
     "next-seo": "^6.5.0",
     "next-themes": "^0.4.4",
     "react": "^18.2.0",
@@ -64,6 +64,6 @@
     "eslint-config-next": "^12.0.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
-    "typescript": "^4.9.5"
+    "typescript": "^5.8.3"
   }
 }
